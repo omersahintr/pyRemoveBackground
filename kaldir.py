@@ -8,4 +8,4 @@ with open(input_path,'rb') as i: ##dosyayı rb-read binary olarak açar
         in_file = i.read()
         output_file = remove(in_file)
         o.write(output_file)
-
+#what is
